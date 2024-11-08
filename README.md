@@ -1,4 +1,4 @@
-# My WebUI-Ollama Project
+# My Docker IA Project
 
 Este es un proyecto Docker que configura un entorno con una interfaz WebUI y un servicio Ollama para ejecutar modelos de lenguaje como Llama, GPT, entre otros.
 
